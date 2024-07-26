@@ -5,6 +5,9 @@ Examples:
 Input:  Java
         *
         8
-Output: Coding
+Output: **Java**
+
+Input: Coding
         #
         10
+Output: ##Coding##        
